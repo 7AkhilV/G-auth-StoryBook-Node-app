@@ -1,8 +1,6 @@
 # G-auth-StoryBook-Node-app
   StoryBooks Blog App
 
-live: https://storybook-node-app.onrender.com/
-
 A Node.js web application for creating, editing, and managing stories.
 Users can log in via Google authentication and share their stories publicly or privately.
 
